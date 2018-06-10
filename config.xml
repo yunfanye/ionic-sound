@@ -81,4 +81,14 @@
     <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="1.1.19" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="2.0.5" />
+    <plugin name="cordova-plugin-media" spec="^5.0.2" />
+    <plugin name="cordova-plugin-file" spec="^6.0.1" />
+    <allow-navigation href="http://192.168.0.16:8100" />
+    <plugin name="cordova-plugin-file-transfer" spec="^1.7.1" />
+    <allow-navigation href="http://100.110.196.223:8100" />
+    <plugin name="com-badrit-base64" spec="^0.2.0" />
+    <engine name="ios" spec="~4.5.4" />
+    <allow-navigation href="http://100.110.220.33:8100" />
+    <engine name="android" spec="~7.0.0" />
+    <allow-navigation href="http://100.110.250.144:8100" />
 </widget>

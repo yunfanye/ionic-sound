@@ -21,6 +21,9 @@
     "src/**/*.spec.ts",
     "src/**/__tests__/*.ts"
   ],
+  "typeRoots": [
+    "node_modules/@types"
+  ],
   "compileOnSave": false,
   "atom": {
     "rewriteTsconfig": false
